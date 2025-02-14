@@ -1,3 +1,6 @@
+## I know this is late. I didn't have write access to the original repo after 12:00 PM for some reason, even though the assignment is available until midnight on canvas. I made this repo and added the files via upload here. Sorry.
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6dHeyMJQ)
 # Homework 1
 Not 302 again!  
